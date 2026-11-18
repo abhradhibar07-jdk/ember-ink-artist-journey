@@ -1,5 +1,6 @@
 {
-  "name": "tanstack_start_ts",
+  "name": "brieflock-studio",
+  "description": "Constraint-Aware Vector Design Assist — GeNarrative Clash 2026 50% Foundation",
   "private": true,
   "sideEffects": false,
   "type": "module",
